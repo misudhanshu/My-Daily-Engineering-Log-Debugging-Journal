@@ -17,8 +17,17 @@
 
 ### 📅 June 21, 2026
 
-- 🟠 **Today's Progress**:
+- **Today's Progress**:
   - Solved 3 independent useEffect practice questions from scratch without tutorial reference, confirming deep understanding of dependency array and cleanup functions.
   - Achieved complete understanding of useContext hook and React Context API for global state management.
 
-- 🟠 **Key Takeaway**: useEffect and useContext are now solidified concepts. Ready to implement global state management in real projects without prop drilling.
+- **Key Takeaway**: useEffect and useContext are now solidified concepts. Ready to implement global state management in real projects without prop drilling.
+
+### 📅 June 22, 2026
+
+- **Today's Progress**:
+  - Solved independent practice problems on useContext hook to solidify understanding through repetition.
+  - Understood the distinction between useContext hook and Context API — useContext is the hook that consumes the context created by Context API.
+  - Understood how context was consumed before useContext hook existed — using Context.Consumer with render props and JS curly braces syntax.
+
+- **Key Takeaway**: useContext and Context API are two parts of the same system — Context API creates and provides the data, useContext consumes it anywhere in the component tree. useContext replaced the older verbose Consumer pattern making code much cleaner.
