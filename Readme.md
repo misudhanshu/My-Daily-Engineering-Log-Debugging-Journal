@@ -31,8 +31,6 @@
   - Understood how context was consumed before useContext hook existed — using Context.Consumer with render props and JS curly braces syntax.
 
 - **Key Takeaway**: useContext and Context API are two parts of the same system — Context API creates and provides the data, useContext consumes it anywhere in the component tree. useContext replaced the older verbose Consumer pattern making code much cleaner.
-=======
-
 
 ### 📅 June 23, 2026
 
