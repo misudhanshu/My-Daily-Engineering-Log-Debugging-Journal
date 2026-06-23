@@ -17,7 +17,6 @@
 
 ### 📅 June 21, 2026
 
-<<<<<<< HEAD
 - **Today's Progress**:
   - Solved 3 independent useEffect practice questions from scratch without tutorial reference, confirming deep understanding of dependency array and cleanup functions.
   - Achieved complete understanding of useContext hook and React Context API for global state management.
@@ -38,7 +37,7 @@
   - Achieved complete understanding of useContext hook and React Context API for global state management.
 
 -  **Key Takeaway**: useEffect and useContext are now solidified concepts. Ready to implement global state management in real projects without prop drilling.
->>>>>>> a6d1f4f4742fa637d516780257044cd0e44ace98
+
 ### 📅 June 22, 2026
 
 -  **Today's Progress**:
