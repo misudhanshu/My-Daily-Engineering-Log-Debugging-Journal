@@ -31,3 +31,12 @@
   - Built Random Hex Colour Code Generator independently demonstrating growing confidence with useState and dynamic rendering.
 
 -  **Key Takeaway**: External API integration in React is clicking. useEffect and useState working together for real world data fetching is now natural. Failed attempts teach more than successful ones.
+
+### 📅 June 23, 2026
+
+-  **Today's Progress**:
+  - Built a fully functional Weather App independently integrating external weather API with real time data fetching.
+  - Understood useReducer basics — managing complex state with actions and dispatch instead of multiple useState calls.
+  - Learned that React Vite uses VITE_ prefix for environment variables and import.meta.env instead of process.env.
+
+-  **Key Takeaway**: API integration is becoming natural. useReducer clicked at basic level — next step is practicing with real complex state scenarios to fully replace useState where needed.
