@@ -40,3 +40,11 @@
   - Learned that React Vite uses VITE_ prefix for environment variables and import.meta.env instead of process.env.
 
 -  **Key Takeaway**: API integration is becoming natural. useReducer clicked at basic level — next step is practicing with real complex state scenarios to fully replace useState where needed.
+
+### 📅 June 24, 2026
+
+- 🟠 **Today's Progress**:
+  - Watched multiple useReducer videos to understand complex state management patterns.
+  - Attempted to grasp useReducer alongside other advanced concepts simultaneously.
+
+- 🟠 **Key Takeaway**: useReducer feels overwhelming when multiple concepts hit at once. Identified that breaking it into smaller isolated problems is the next approach rather than consuming more videos. Struggling is part of the process — tomorrow is a fresh attempt.
