@@ -25,26 +25,35 @@
 
 ### 📅 June 22, 2026
 
--  **Today's Progress**:
-  - Attempted Recipe Finder app integrating external API — faced challenges with data fetching and error handling.
-  - Successfully built Random Quote Generator independently from scratch using external API.
-  - Built Random Hex Colour Code Generator independently demonstrating growing confidence with useState and dynamic rendering.
+- **Today's Progress**:
+- Attempted Recipe Finder app integrating external API — faced challenges with data fetching and error handling.
+- Successfully built Random Quote Generator independently from scratch using external API.
+- Built Random Hex Colour Code Generator independently demonstrating growing confidence with useState and dynamic rendering.
 
--  **Key Takeaway**: External API integration in React is clicking. useEffect and useState working together for real world data fetching is now natural. Failed attempts teach more than successful ones.
+- **Key Takeaway**: External API integration in React is clicking. useEffect and useState working together for real world data fetching is now natural. Failed attempts teach more than successful ones.
 
 ### 📅 June 23, 2026
 
--  **Today's Progress**:
-  - Built a fully functional Weather App independently integrating external weather API with real time data fetching.
-  - Understood useReducer basics — managing complex state with actions and dispatch instead of multiple useState calls.
-  - Learned that React Vite uses VITE_ prefix for environment variables and import.meta.env instead of process.env.
+- **Today's Progress**:
+- Built a fully functional Weather App independently integrating external weather API with real time data fetching.
+- Understood useReducer basics — managing complex state with actions and dispatch instead of multiple useState calls.
+- Learned that React Vite uses VITE\_ prefix for environment variables and import.meta.env instead of process.env.
 
--  **Key Takeaway**: API integration is becoming natural. useReducer clicked at basic level — next step is practicing with real complex state scenarios to fully replace useState where needed.
+- **Key Takeaway**: API integration is becoming natural. useReducer clicked at basic level — next step is practicing with real complex state scenarios to fully replace useState where needed.
 
 ### 📅 June 24, 2026
 
-- 🟠 **Today's Progress**:
-  - Watched multiple useReducer videos to understand complex state management patterns.
-  - Attempted to grasp useReducer alongside other advanced concepts simultaneously.
+- **Today's Progress**:
+- Watched multiple useReducer videos to understand complex state management patterns.
+- Attempted to grasp useReducer alongside other advanced concepts simultaneously.
 
-- 🟠 **Key Takeaway**: useReducer feels overwhelming when multiple concepts hit at once. Identified that breaking it into smaller isolated problems is the next approach rather than consuming more videos. Struggling is part of the process — tomorrow is a fresh attempt.
+- **Key Takeaway**: useReducer feels overwhelming when multiple concepts hit at once. Identified that breaking it into smaller isolated problems is the next approach rather than consuming more videos. Struggling is part of the process — tomorrow is a fresh attempt.
+
+### 📅 June 26, 2026
+
+- **Today's Progress**:
+- Watched multiple useReducer videos but felt overwhelmed with multiple concepts at once.
+- Broke through by drawing complete useReducer dataflow on paper to visualize the concept.
+- Successfully solved light toggle problem independently using useReducer.
+
+- **Key Takeaway**: When videos don't work — pen and paper always does. Visualizing dataflow before coding is now a proven personal strategy for breaking through complex concepts.
