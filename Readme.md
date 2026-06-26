@@ -49,7 +49,7 @@
 
 - **Key Takeaway**: useReducer feels overwhelming when multiple concepts hit at once. Identified that breaking it into smaller isolated problems is the next approach rather than consuming more videos. Struggling is part of the process — tomorrow is a fresh attempt.
 
-### 📅 June 26, 2026
+### 📅 June 25, 2026
 
 - **Today's Progress**:
 - Watched multiple useReducer videos but felt overwhelmed with multiple concepts at once.
@@ -57,3 +57,11 @@
 - Successfully solved light toggle problem independently using useReducer.
 
 - **Key Takeaway**: When videos don't work — pen and paper always does. Visualizing dataflow before coding is now a proven personal strategy for breaking through complex concepts.
+
+### 📅 June 26, 2026
+
+- **Today's Progress**:
+  - Read useReducer hook documentation from official react.dev for deeper conceptual clarity.
+  - Solved Bank Loan Account Manager problem independently using useReducer — implementing deposit, withdraw, request loan and pay loan actions.
+
+- **Key Takeaway**: useReducer is now solid. Complex state with multiple actions managed cleanly through a single reducer function. Official docs are always better than random videos for clearing confusion.
