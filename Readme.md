@@ -101,3 +101,11 @@
   - Built Random Password Generator independently — implementing character randomization, length control and copy to clipboard functionality.
 
 - **Key Takeaway**: String manipulation and random character generation logic is becoming natural in React. Small utility apps are great for sharpening logic skills.
+
+### 📅 July 3, 2026
+
+- **Today's Progress**:
+  - Learned dynamic key access in useReducer — [action.payload] returns the key and state[action.payload] returns the corresponding value for flexible state updates.
+  - Built a Pomodoro Timer independently — implementing countdown logic, start, pause and reset functionality.
+
+- **Key Takeaway**: Dynamic keys in useReducer unlock powerful flexible state management. Pomodoro Timer strengthened understanding of setInterval, useEffect cleanup and time-based state updates in React.
