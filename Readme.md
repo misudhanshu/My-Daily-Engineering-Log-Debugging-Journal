@@ -109,3 +109,11 @@
   - Built a Pomodoro Timer independently — implementing countdown logic, start, pause and reset functionality.
 
 - **Key Takeaway**: Dynamic keys in useReducer unlock powerful flexible state management. Pomodoro Timer strengthened understanding of setInterval, useEffect cleanup and time-based state updates in React.
+
+### 📅 July 4-6, 2026
+
+- **Today's Progress**:
+  - Built a fully functional Expense Tracker application over 3 days independently.
+  - Implemented add expense, delete expense, category filtering and total calculation functionality.
+
+- **Key Takeaway**: Multi-day projects require planning and patience. Expense Tracker solidified useReducer for complex state management with multiple actions — add, delete and filter all handled through single reducer function.
