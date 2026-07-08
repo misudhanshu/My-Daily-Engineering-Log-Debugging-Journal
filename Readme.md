@@ -117,3 +117,13 @@
   - Implemented add expense, delete expense, category filtering and total calculation functionality.
 
 - **Key Takeaway**: Multi-day projects require planning and patience. Expense Tracker solidified useReducer for complex state management with multiple actions — add, delete and filter all handled through single reducer function.
+
+### 📅 July 7, 2026
+
+- **Today's Progress**:
+  - Built Event Countdown Timer independently — implemented core countdown logic from scratch, used AI only for date formatting conversion to days, hours, minutes and seconds.
+  - Joined Discord communities — Google Developer community and The Odin Project community for peer support and collaboration.
+  - Created account on Exchange Rate API for upcoming Currency Converter project.
+  - Planned Currency Converter logic on paper before writing any code.
+
+- **Key Takeaway**: Planning on paper before coding is now a natural first step. Using AI only for specific isolated problems while solving core logic independently is the right balance. Joining developer communities opens doors to collaboration and real world exposure.
