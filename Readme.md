@@ -135,3 +135,15 @@
   - Implemented real time currency conversion with dynamic country selection and live exchange rates.
 
 - **Key Takeaway**: API integration with user controlled inputs is now comfortable. Planning on paper before coding made implementation smoother and faster than previous projects.
+
+### 📅 July 10-11, 2026
+
+- **Today's Progress**:
+  - Built Search and Filter App over 2 days independently.
+  - Implemented live search bar for real time product filtering as user types.
+  - Built sidebar with two filter sections:
+    - Brand filter using radio buttons — Sony, Samsung etc
+    - Category filter — Electronics, Sports etc
+  - Combined search and sidebar filters working together simultaneously.
+
+- **Key Takeaway**: Complex filtering logic with multiple simultaneous conditions is now manageable. Live search with useEffect and controlled inputs clicked naturally. This is real world ecommerce level filtering logic.
