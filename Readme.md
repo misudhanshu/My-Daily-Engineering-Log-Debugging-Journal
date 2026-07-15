@@ -147,3 +147,22 @@
   - Combined search and sidebar filters working together simultaneously.
 
 - **Key Takeaway**: Complex filtering logic with multiple simultaneous conditions is now manageable. Live search with useEffect and controlled inputs clicked naturally. This is real world ecommerce level filtering logic.
+
+### 📅 July 12-13, 2026
+
+- **Today's Progress**:
+  - Studied and understood React Hook Form library for efficient form management.
+  - Learned how React Hook Form reduces boilerplate compared to vanilla React controlled forms.
+
+### 📅 July 14, 2026
+
+- **Today's Progress**:
+  - Built Login and Signup forms in vanilla React — manual state management, validation and error handling from scratch.
+
+### 📅 July 15, 2026
+
+- **Today's Progress**:
+  - Rebuilt same Login and Signup forms using React Hook Form.
+  - Experienced firsthand the difference in code reduction and cleaner validation handling.
+
+- **Key Takeaway**: Building the same thing twice — vanilla then with library — is the best way to understand why a library exists. React Hook Form removes repetitive useState and onChange handlers making forms cleaner and more maintainable. This is how real production forms are built.
