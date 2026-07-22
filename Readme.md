@@ -183,3 +183,29 @@
   - Integrated emoji-picker-react package for emoji selection functionality.
 
 - **Key Takeaway**: Making a UI responsive requires thinking in breakpoints not just fixed layouts. Integrating third party npm packages like emoji-picker-react is straightforward — reading package docs and implementing independently is now comfortable.
+
+### 📅 July 18-19, 2026
+
+- **Today's Progress**:
+  - Attempted Kanban Board with drag and drop using dnd-kit library — partially succeeded.
+  - Made decision to pause and understand library independently through docs rather than watching tutorial — shows strong self learning instinct.
+  - Learned and practiced Custom Hooks — extracting reusable logic from components into independent hook functions.
+
+### 📅 July 20, 2026
+
+- **Today's Progress**:
+  - Practiced multiple custom hooks independently solidifying reusable logic patterns in React.
+
+### 📅 July 21-22, 2026
+
+- **Today's Progress**:
+  - Started React Router — initially felt overwhelming finding right learning resource.
+  - Made handwritten notes covering complete React Router concepts:
+    - BrowserRouter, Routes, Route
+    - Link, NavLink
+    - useNavigate, useParams
+    - useLocation, useSearchParams
+    - Nested Routes and Outlet
+  - Answered 3 independent questions for each topic to validate understanding.
+
+- **Key Takeaway**: When videos feel overwhelming — handwritten notes always break the barrier. React Router has many concepts but breaking each into 3 practice questions makes them stick naturally. Custom hooks show React maturity — thinking in reusable logic not just components.
